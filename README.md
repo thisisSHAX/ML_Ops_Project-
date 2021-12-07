@@ -81,7 +81,7 @@ Access Link for all Notebooks:  [![Open In Colab](https://colab.research.google.
 ## The Team:
 1. Shashwat Jain (https://github.com/thisisSHAX)
 2. Aishwarya Nair (https://github.com/MayTune)
-3. Samarth Gubrele
+3. Samarth Gubrele (https://github.com/Sam5cool)
 4. Shanmugaraja S
 5. Sanjoy Podder
 
